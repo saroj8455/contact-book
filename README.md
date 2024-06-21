@@ -4,5 +4,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Task List
 
-- [] setup route
-- [] implement miminmal page layout
+- [ ] setup route
+- [ ] implement miminmal page layout
